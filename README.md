@@ -1,15 +1,11 @@
-- 👋 Hi, I’m @augustuscarrara
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Olá, Me chamo Augustus
+- 👀 Eu estou interessado em programar 
+- 🌱 Atualmente estou aprendendo a programar
+- 💞️ Eu estou pensando em ajudar Outras comunidades de Dev's
+- 📫 Como chegar até mim --> Meu instagram/Facebook - Instagram/Augustus_14y | Facebook/Augustus César
+- 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidade: Nenhuma Que Eu Saiba 
 
-<!---
-augustuscarrara/augustuscarrara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 echo "# DevValhalla" >> README.md
 git init
 git add README.md
